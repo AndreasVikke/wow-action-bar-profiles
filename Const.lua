@@ -261,4 +261,31 @@ ABP_SPECIAL_SPELLS = {
     [203528] = { class = "PALADIN", spec = 70, level = 42 },            -- Greater Blessing of Might
     [203538] = { class = "PALADIN", spec = 70, level = 44 },            -- Greater Blessing of Kings
     [203539] = { class = "PALADIN", spec = 70, level = 46 },            -- Greater Blessing of Wisdom
+
+    
+    -- druid lvl 35 talents
+    [5211] = { class = "DRUID" },                           -- Mighty Bash
+    [319454] = { class = "DRUID" },                         -- Mass Entanglement
+    [102359] = { class = "DRUID" },                         -- Heart of the Wild
+
+    -- druid lvl 40 talents
+    [33891] = { class = "DRUID" },                          -- Incarnation: Tree of life
+
+    -- druid affinity talents
+        -- Balance Affinity
+    [24858] = { class = "DRUID" },                          -- Moonkin form
+    [197626] = { class = "DRUID" },                         -- Starsurge
+    [197628] = { class = "DRUID" },                         -- Starfire
+    [132469] = { class = "DRUID" },                         -- Typhoon
+    
+        -- Feral Affinity
+    [1822] = { class = "DRUID" },                           -- Rake
+    [1079] = { class = "DRUID" },                           -- Rip
+    [213764] = { class = "DRUID" },                         -- Swipe
+    [22570] = { class = "DRUID" },                          -- Maim
+    
+        -- Guardian Affinity
+    [158723] = { class = "DRUID" },                         -- Thrash
+    [22842] = { class = "DRUID" },                          -- Frenzied Regeneration
+    [99] = { class = "DRUID" },                             -- Incapacitating Roar
 }
